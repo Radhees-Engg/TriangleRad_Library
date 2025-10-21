@@ -1,13 +1,13 @@
-TriangleRad_Library - OpenSource
+#TriangleRad_Library - OpenSource
 
 A simple, header-only C++ library for creating and managing rotating triangles in Raylib.
 Created by RADHEES BALA | GitHub: Radhees_Engg
 
-Dependencies
+**Dependencies**
 
 Raylib (raylib.h, raymath.h)
 
-Installation
+**Installation**
 
 Download TriangleRad.hpp
 
@@ -18,20 +18,20 @@ Include it in your code:
 #include "TriangleRad.hpp"
 
 
-In your project properties:
+**In your project properties:**
 
 Go to C/C++ → General → Additional Include Directories
 
 Add the path of your header file
 
-Constructor
+**Constructor**
 rad::triangleRad(Vector2 Position, float Size, float Angle, float Rotation_Speed, float Auto_Rotate_Speed)
 
-Controls
+**Controls**
 
 Hold Middle Mouse Button to rotate counter-clockwise
 
-Functions
+**Functions**
 
 std::array<Vector2, 3> GetVertices() const
 Returns the three vertices of the triangle in world space:
@@ -42,7 +42,7 @@ Returns the three vertices of the triangle in world space:
 
 [2] - Right base corner
 
-Contributing
+**Contributing**
 
 Contributions, issues, and feature requests are welcome!
 
@@ -54,10 +54,10 @@ Link to the GitHub repository
 
 Share your project — I’d love to see what you build!
 
-License
+**License**
 
 Open source and free to use. Attribution appreciated!
 
 Contact
 
-LinkedI
+LinkedIn - [https://www.linkedin.com/in/radhees-bala-2a08652b4/recent-activity/all/]
