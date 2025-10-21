@@ -21,7 +21,7 @@ Created by RADHEES BALA | GitHub: Radhees_Engg.
 ## Constructor
 - rad::triangleRad(Vector2 Position, float Size, float Angle, float Rotation_Speed, float Auto_Rotate_Speed);
 
-##Controls
+## Controls
 - Hold Middle Mouse Button to rotate counter-clockwise.
 
 ## Functions
