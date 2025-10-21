@@ -1,4 +1,4 @@
-#TriangleRad_Library - OpenSource
+**TriangleRad_Library - OpenSource**
 
 A simple, header-only C++ library for creating and managing rotating triangles in Raylib.
 Created by RADHEES BALA | GitHub: Radhees_Engg
